@@ -70,7 +70,10 @@ button:focus,
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
 }
-
+.logoDesign:{
+height: 81px;
+border-radius: 50%;
+}
 .form-check-input:checked {
   background-color: #3080E3;
   border-color: #3080E3;
